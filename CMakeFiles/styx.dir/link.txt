@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/styx.dir/src/main.c.o  -o styx  -framework SDL2 -framework Cocoa -Wl,-rpath,/Library/Frameworks 
